@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neosoft/titanic_pipeline/mlruns/0/0e02bc8a1d5f4d7793684ed4f0294380/artifacts
+end_time: 1749207917133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e02bc8a1d5f4d7793684ed4f0294380
+run_name: model_validation
+run_uuid: 0e02bc8a1d5f4d7793684ed4f0294380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749207917054
+status: 3
+tags: []
+user_id: neosoft
